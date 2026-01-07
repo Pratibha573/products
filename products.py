@@ -2,14 +2,14 @@ def main():
     products = []
     grand_total = 0
 
-    n = int(input("Enter number of products: "))
+    n = 2
 
     for i in range(n):
         print(f"\nEnter details for product {i+1}")
 
-        name = input("Product name: ")
-        price = float(input("Product price: "))
-        quantity = int(input("Product quantity: "))
+        name = pratibha
+        price = 50000
+        quantity = 2
 
         product = {
             "name": name,
