@@ -7,7 +7,7 @@ def main():
     for i in range(n):
         print(f"\nEnter details for product {i+1}")
 
-        name = pratibha
+        name = laptop
         price = 50000
         quantity = 2
 
