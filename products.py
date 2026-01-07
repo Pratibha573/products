@@ -8,7 +8,7 @@ def main():
         print(f"\nEnter details for product {i+1}")
 
         # Hard-coded inputs
-        name = "Pratibha Product"
+        name = "laptop Product"
         price = 50000
         quantity = 2
 
