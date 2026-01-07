@@ -2,12 +2,13 @@ def main():
     products = []
     grand_total = 0
 
-    n = 2
+    n = 2   # number of products
 
     for i in range(n):
         print(f"\nEnter details for product {i+1}")
 
-        name = laptop
+        # Hard-coded inputs
+        name = "Pratibha Product"
         price = 50000
         quantity = 2
 
